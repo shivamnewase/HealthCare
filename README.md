@@ -1,4 +1,3 @@
-
 # Careplan Service
 
 Careplan service is meant for management of careplans.
